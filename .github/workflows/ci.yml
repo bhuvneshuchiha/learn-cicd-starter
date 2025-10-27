@@ -19,4 +19,4 @@ jobs:
           go-version: "1.25.1"
 
       - name: Go version tag
-        run: go --version
+        run: go version
